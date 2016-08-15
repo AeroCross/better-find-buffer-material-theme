@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>name</key>
+  <string>Sublime Find Results</string>
+  <key>settings</key>
+  <array>
+  <dict>
+    <key>settings</key>
+    <dict>
+      <key>background</key>
+      <string>#263238</string>
+      <key>foreground</key>
+      <string>#eeffff</string>
+      <key>lineHighlight</key>
+      <string>#000050</string>
+      <key>selection</key>
+      <string>#ffcb6b</string>
+      <key>selectionForeground</key>
+      <string>#263238</string>
+      <key>selectionBorder</key>
+      <string>#ffcb6b</string>
+      <key>caret</key>
+      <string>#ffcb6b</string>
+
+    </dict>
+  </dict>
+  <dict>
+    <key>scope</key>
+    <string>string.query.find-in-files</string>
+    <key>settings</key>
+    <dict>
+      <key>fontStyle</key>
+      <string>bold</string>
+
+    </dict>
+  </dict>
+  <dict>
+    <key>scope</key>
+    <string>variable.total_files_count.find-in-files</string>
+    <key>settings</key>
+    <dict>
+      <key>fontStyle</key>
+      <string>bold</string>
+
+    </dict>
+  </dict>
+  <dict>
+    <key>scope</key>
+    <string>footer.find-in-files</string>
+    <key>settings</key>
+    <dict>
+      <key>background</key>
+      <string>#263238</string>
+      <key>foreground</key>
+      <string>#eeffff</string>
+
+    </dict>
+  </dict>
+  <dict>
+    <key>scope</key>
+    <string>variable.matched_count.find-in-files</string>
+    <key>settings</key>
+    <dict>
+
+    </dict>
+  </dict>
+  <dict>
+    <key>scope</key>
+    <string>variable.matched_files_count.find-in-files</string>
+    <key>settings</key>
+    <dict>
+
+    </dict>
+  </dict>
+  <dict>
+    <key>scope</key>
+    <string>entity.name.filename.find-in-files</string>
+    <key>settings</key>
+    <dict>
+      <key>background</key>
+      <string>#263238</string>
+      <key>foreground</key>
+      <string>#c3e88d</string>
+
+    </dict>
+  </dict>
+  <dict>
+    <key>scope</key>
+    <string>match.find-in-files</string>
+    <key>settings</key>
+    <dict>
+      <key>background</key>
+      <string>#263238</string>
+      <key>foreground</key>
+      <string>#eeffff</string>
+
+    </dict>
+  </dict>
+  <dict>
+    <key>scope</key>
+    <string>constant.numeric.line-number.match.find-in-files</string>
+    <key>settings</key>
+    <dict>
+      <key>background</key>
+      <string>#263238</string>
+      <key>foreground</key>
+      <string>#f78c6c</string>
+
+    </dict>
+  </dict>
+  <dict>
+    <key>scope</key>
+    <string>punctuation.line-number.match.find-in-files</string>
+    <key>settings</key>
+    <dict>
+      <key>background</key>
+      <string>#263238</string>
+      <key>foreground</key>
+      <string>#f78c6c</string>
+
+    </dict>
+  </dict>
+  <dict>
+    <key>scope</key>
+    <string>constant.numeric.line-number.find-in-files</string>
+    <key>settings</key>
+    <dict>
+      <key>background</key>
+      <string>#263238</string>
+      <key>foreground</key>
+      <string>#f76d47</string>
+
+    </dict>
+  </dict>
+  <dict>
+    <key>scope</key>
+    <string>font</string>
+    <key>settings</key>
+    <dict>
+      <key>family</key>
+      <string>Lucida Console</string>
+      <key>size</key>
+      <string>16px</string>
+
+    </dict>
+  </dict>
+  </array>
+  <key>uuid</key>
+  <string>edcc9b28-ac04-4b4a-8fa3-f4be3c0d3b02</string>
+</dict>
+</plist>
