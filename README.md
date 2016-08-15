@@ -1,12 +1,12 @@
-### Material Theme for BetterFindBuffer
+## Material Theme for BetterFindBuffer
 
 A simple [Material](https://material.google.com/) theme for the awesome [BetterFindBuffer](https://packagecontrol.io/packages/BetterFindBuffer) — based on the fantastic work of Mattia Astorino in his Sublime Text 3 [Material Theme](https://github.com/equinusocio/material-theme).
 
 If you don't use that theme, make sure you do. It's awesome.
 
-![How it looks](http://imgur.com/a/4iuXb.png)
+![How it looks](http://i.imgur.com/AHO2o7m.png)
 
-#### Installation
+### Installation
 
 Make sure the [BetterFindBuffer](https://packagecontrol.io/packages/BetterFindBuffer) plugin is already installed.
 
